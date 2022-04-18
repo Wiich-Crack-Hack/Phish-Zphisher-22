@@ -1,2 +1,0 @@
-# Phish-Zphisher-22
-In this repository I bring you the installation of  a tool called Zphisher command by command  As many already know it is used to create attacks Phishing for various uses but all based on To teach them and let them learn the vulnerabilities  From their own social networks for them to take  The previous security measures... all this will be I share them for education and learning purposes
